@@ -8,3 +8,5 @@ my first GitHub project
 [To learn important skills in commputer science class. ]
 ## What I Want to Build
 [I would like to create a website for people to access. ]
+### Collaborator
+Ms. C!
